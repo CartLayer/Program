@@ -17,3 +17,5 @@ Running client...
     timestamps (numbers): [ 1746983226 ]
     timestamps (numbers): [ 1746983226, 1746983228 ]
 ```
+
+![diagram](https://github.com/CartLayer/Program/blob/main/diagram.jpg?raw=true)
